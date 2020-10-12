@@ -1,2 +1,3 @@
 # Practice Project: Preparing data
- Hands on data cleaning and manipulation using the a dataset with a list of indicators of energy supply and renewable electricity production from the United Nations for the year 2013
+ Hands on data cleaning and manipulation using 3 datasets with information.
+ First time trying to merge different datasets into a new one.
